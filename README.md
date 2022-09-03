@@ -1,1 +1,1 @@
-# shikimori-unofficial-community-bot
+# 式守さん非公式ボット
