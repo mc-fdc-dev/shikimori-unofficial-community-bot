@@ -1,0 +1,1 @@
+# shikimori-unofficial-community-bot
